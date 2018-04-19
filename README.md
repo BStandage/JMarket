@@ -31,7 +31,7 @@ Linux
 1. Aquire the source code by downloading the zip file: [JMarket](https://github.iu.edu/fergusch/JMarket/archive/master.zip)
 2. Run the program in an IDE of your choice, for example [Eclipse](https://www.eclipse.org/downloads/?)
 3.  Select "Create an Account" if you do not have one already, or select "Log in"
-  * If you create an account, fill in the required fields and select an the type of account you wish to create
+  * If you create an account, fill in the required fields and select the type of account you wish to create
   * If you choose to log in, enter your username and password to continue
  
 #### Seller Instructions
